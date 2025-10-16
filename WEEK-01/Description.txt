@@ -1,0 +1,6 @@
+TOPICS COVERED:
+  i. Python Core & Fundamentals
+  ii. Python Basics
+  iii. Control Flow
+  iv. String, List
+  v. Tuple, Set, Dictionary
