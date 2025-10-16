@@ -1,0 +1,4 @@
+Total lines : 2
+Total words : 8
+Total characters : 40
+Please check sample.txt to verify
