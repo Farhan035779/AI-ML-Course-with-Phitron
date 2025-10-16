@@ -1,0 +1,4 @@
+TOPICS COVERED:
+  i. Functional Programming
+  ii. File Handling & Exception Handling
+  iii. Object Oriented Programming
